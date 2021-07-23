@@ -108,10 +108,13 @@ body {
     height: 600px;
     color: #fff;
     padding-top: 300px;
+    padding-bottom: 25px;
 }
 
-.hero-top, .hero-bottom {
+.hero-top  {
     margin-bottom: 70px;
+    padding-bottom: 25px;
+
 }
 
 /* .img-banner {
@@ -124,6 +127,10 @@ width: 70%;
 
 h2, p, .img-banner img {
     margin-bottom: 20px;
+}
+
+.hero-bottom {
+    padding-bottom: 25px;
 }
 
 .list-hero {
