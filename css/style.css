@@ -244,3 +244,10 @@ h2, p, .img-banner img {
 .playstation-plus button {
     margin-bottom: 20px;
 }
+
+/* new discounts */
+
+.new-discounts img {
+    width: 100%;
+    margin: 20px 0;
+}
