@@ -178,7 +178,7 @@ h2, p, .img-banner img {
 
 .ps5-item {
     opacity:0.4;
-
+    border-bottom: 3px solid transparent;
 }
 
 .ps5-item:hover {
@@ -189,6 +189,11 @@ h2, p, .img-banner img {
 
 /* Nuove uscite */
 
+.nuove-uscite {
+    background-color: #1f1f1f;
+    color: #fff;
+}
+
 .top-novità {
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-size: cover;
@@ -198,4 +203,13 @@ h2, p, .img-banner img {
     height: 600px;
     color: #fff;
     padding: 40px 20px;
+}
+
+.list-novità {
+    margin-top: 30px;
+}
+
+.list-novità h6 {
+    margin: 20px 0 30px;
+    font-size: 20px;
 }
