@@ -234,10 +234,13 @@ h2, p, .img-banner img {
 
 .playplus-left-img {
     width: 70%;
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 .playplus-right-img {
     width: 100%;
 }
 
+.playstation-plus button {
+    margin-bottom: 20px;
+}
