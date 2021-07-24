@@ -167,7 +167,7 @@ h2, p, .img-banner img {
     margin-top: 20px;
 }
 
-#img-item {
+.img-item {
     width: 50%;
 }
 
@@ -212,4 +212,15 @@ h2, p, .img-banner img {
 .list-novità h6 {
     margin: 20px 0 30px;
     font-size: 20px;
+}
+
+/* PlayStation 4 */
+
+.fa-registered {
+    font-size: 15px;
+    vertical-align: super;
+}
+
+.ps4-item {
+    width: 100%;
 }
