@@ -241,7 +241,7 @@ h2, p, .img-banner img {
     width: 100%;
 }
 
-.playstation-plus button {
+.playstation-plus button, .playstation-now button {
     margin-bottom: 20px;
 }
 
@@ -250,4 +250,21 @@ h2, p, .img-banner img {
 .new-discounts img {
     width: 100%;
     margin: 20px 0;
+}
+
+/* PlayStation Now */
+
+.playstation-now {
+    background-color: #161c3b;
+    color: #fff;
+}
+
+/* Social space */
+
+.social-space img {
+    width: 100%;
+}
+
+.social-space h3 {
+    margin: 20px 0 50px;
 }
