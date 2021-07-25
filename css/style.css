@@ -263,8 +263,52 @@ h2, p, .img-banner img {
 
 .social-space img {
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .social-space h3 {
     margin: 20px 0 50px;
+}
+
+
+/* footer */
+
+footer {
+    background-color: #00439c;
+    color: #fff;
+    font-size: 12px;
+
+}
+
+.logo-ps-foot {
+    margin-bottom: 20px;
+}
+
+.language-img {
+    width: 20px;
+    /* vertical-align: middle; */
+}
+
+.country {
+    vertical-align: middle;
+    margin-bottom: 30px;
+}
+
+footer ul li, footer ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: #fff;
+}
+
+footer p a {
+    color: #fff;
+}
+
+footer ul li a:hover, footer p a:hover {
+    color: yellow
+}
+
+.logo-sie-sony {
+    width: 130px;
+    margin: 30px 0 10px;
 }
