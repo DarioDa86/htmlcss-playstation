@@ -1,4 +1,4 @@
-.debug {
+/* .debug {
 	position: fixed;
 	z-index: 9999;
 	top: 0;
@@ -13,7 +13,7 @@
 .debug .col:not(:last-child) {
 	border-right: 1px solid red;
 	height: 100vh;
-}
+} */
 
 
 /* common */
@@ -188,6 +188,12 @@ h2, p, .img-banner img {
 .playstation-5 .img-item {
     width: 50%;
 }
+
+@media screen and (max-width: 767px) {
+    .playstation-5 .img-item {
+        width: 100%;
+    }
+  }
 
 .fa-trademark {
     font-size: 8px;
