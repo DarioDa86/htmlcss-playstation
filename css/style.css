@@ -19,7 +19,7 @@
 /* common */
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, sans-serif;
 }
 
 .padd-ing-row {
@@ -168,6 +168,7 @@ h2, p, .img-banner img {
 .list-hero {
     border-radius: 15px;
     padding: 2px;
+    transition: 1s;
 }
 
 .list-hero img {
@@ -176,6 +177,8 @@ h2, p, .img-banner img {
 
 .list-hero:hover {
     box-shadow: 0px 0px 0px 2px #0072ce;
+    transform: translatey(-20px);
+    transition: 1s;
 }
 
 /* play 5 */
@@ -298,6 +301,7 @@ h2, p, .img-banner img {
 
 .social-space h3 {
     margin: 20px 0 50px;
+    font-weight: 600;
 }
 
 .social-box {
