@@ -29,13 +29,11 @@ body {
 /* Typography */
 
 h2 {
-    font-weight: 600;
     font-size: 40px;
 }
 
 h5 {
     color: #727272;
-    font-weight: 600;
 }
 
 .pre-title {
@@ -314,7 +312,6 @@ h2, p, .img-banner img {
 
 .social-space h3 {
     margin: 20px 0 50px;
-    font-weight: 600;
 }
 
 .social-box {
@@ -326,7 +323,7 @@ h2, p, .img-banner img {
 footer {
     background-color: #00439c;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
 
 }
 
