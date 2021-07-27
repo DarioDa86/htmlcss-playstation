@@ -187,6 +187,7 @@ h2, p, .img-banner img {
 
 .playstation-5 .img-item {
     width: 50%;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-width: 767px) {
@@ -284,6 +285,11 @@ h2, p, .img-banner img {
 }
 
 /* Social space */
+
+.special-container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
 
 .social-space img {
     width: 100%;
